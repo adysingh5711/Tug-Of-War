@@ -1,0 +1,86 @@
+# ─────────────────────────────────────────────
+# tug-war-contract
+# ─────────────────────────────────────────────
+
+# Build and compiler outputs
+tug-war-contract/cache/
+tug-war-contract/out/
+tug-war-contract/dist/
+tug-war-contract/dist-ssr/
+
+# Node modules
+tug-war-contract/node_modules/
+
+# Logs
+tug-war-contract/logs/
+tug-war-contract/*.log
+tug-war-contract/npm-debug.log*
+tug-war-contract/yarn-debug.log*
+tug-war-contract/yarn-error.log*
+tug-war-contract/pnpm-debug.log*
+tug-war-contract/lerna-debug.log*
+
+# Dotenv files
+tug-war-contract/.env
+tug-war-contract/.env.local
+tug-war-contract/*.local
+
+# Editor and system files
+tug-war-contract/.vscode/*
+!tug-war-contract/.vscode/extensions.json
+tug-war-contract/.idea/
+tug-war-contract/.DS_Store
+tug-war-contract/*.suo
+tug-war-contract/*.ntvs*
+tug-war-contract/*.njsproj
+tug-war-contract/*.sln
+tug-war-contract/*.sw?
+
+# ─────────────────────────────────────────────
+# tug-war-game
+# ─────────────────────────────────────────────
+
+# Build and compiler outputs
+tug-war-game/cache/
+tug-war-game/out/
+tug-war-game/dist/
+tug-war-game/dist-ssr/
+
+# Node modules
+tug-war-game/node_modules/
+
+# Logs
+tug-war-game/logs/
+tug-war-game/*.log
+tug-war-game/npm-debug.log*
+tug-war-game/yarn-debug.log*
+tug-war-game/yarn-error.log*
+tug-war-game/pnpm-debug.log*
+tug-war-game/lerna-debug.log*
+
+# Dotenv files
+tug-war-game/.env
+tug-war-game/.env.local
+tug-war-game/*.local
+
+# Editor and system files
+tug-war-game/.vscode/*
+!tug-war-game/.vscode/extensions.json
+tug-war-game/.idea/
+tug-war-game/.DS_Store
+tug-war-game/*.suo
+tug-war-game/*.ntvs*
+tug-war-game/*.njsproj
+tug-war-game/*.sln
+tug-war-game/*.sw?
+
+# ─────────────────────────────────────────────
+# Root-level ignores (if applicable)
+# ─────────────────────────────────────────────
+
+# Root dotenv or logs (optional)
+.env
+.env.local
+logs/
+*.log
+.DS_Store
